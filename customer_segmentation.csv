@@ -1,0 +1,21 @@
+Customer_ID,Age,Gender,Annual_Income,Spending_Score,Purchase_Frequency,Preferred_Category,City,Loyalty_Years
+C001,22,Female,25000,78,15,Fashion,Chennai,1
+C002,35,Male,54000,45,8,Electronics,Bangalore,4
+C003,29,Female,32000,88,18,Beauty,Hyderabad,2
+C004,45,Male,76000,30,5,Home Decor,Mumbai,6
+C005,31,Female,48000,65,12,Fashion,Delhi,3
+C006,52,Male,88000,25,4,Electronics,Pune,8
+C007,27,Female,39000,82,17,Beauty,Chennai,2
+C008,40,Male,69000,40,7,Sports,Bangalore,5
+C009,23,Female,27000,91,20,Fashion,Hyderabad,1
+C010,36,Male,58000,50,9,Electronics,Delhi,4
+C011,30,Female,45000,70,13,Beauty,Mumbai,3
+C012,48,Male,82000,35,6,Home Decor,Pune,7
+C013,26,Female,34000,85,16,Fashion,Chennai,2
+C014,55,Male,92000,20,3,Electronics,Bangalore,9
+C015,33,Female,50000,60,11,Sports,Hyderabad,4
+C016,41,Male,71000,38,7,Home Decor,Delhi,5
+C017,24,Female,29000,89,19,Beauty,Mumbai,1
+C018,38,Male,62000,48,8,Electronics,Pune,4
+C019,28,Female,36000,80,15,Fashion,Chennai,2
+C020,50,Male,85000,28,4,Home Decor,Bangalore,8
